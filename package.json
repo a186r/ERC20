@@ -19,6 +19,7 @@
   "homepage": "https://github.com/a186r/ERC20#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0",
-    "truffle": "^5.0.33"
+    "truffle": "^5.0.33",
+    "truffle-hdwallet-provider": "^1.0.17"
   }
 }
